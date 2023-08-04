@@ -70,6 +70,20 @@ class LabelSheet
       "border_width" => 0.4,
       "size" => "Letter",
     ],
+      "Avery6467" => [
+      "top" => 15.9,
+      "left" => 15.9,
+      "rows" => 4,
+      "row_height" => 50.8,
+      "row_gap" => 14.775,
+      "column_gap" => 15.867,
+      "columns" => 3,
+      "column_width" => 50.8,
+      "max_lines" => 6,
+      "border_radius" => 0,
+      "border_width" => 0.4,
+      "size" => "Letter",
+    ],
   ];
 
   /**
